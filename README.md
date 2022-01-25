@@ -11,6 +11,7 @@ Add user "markus" to group "sudo": `usermod -a -G sudo markus`
 ## Drivers
 
 - Logitech G930 : https://github.com/Sapd/HeadsetControl
+- Epson ET-2720 : https://download.ebz.epson.net/dsc/search/01/search/searchModuleFromResult
 
 ## Fonts
 

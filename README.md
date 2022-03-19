@@ -19,6 +19,10 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 ## Applications
 
+### Ubuntu
+
+- https://flameshot.org/
+
 ### Firefox 
 
 #### about:config

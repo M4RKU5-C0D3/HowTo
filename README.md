@@ -22,6 +22,7 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 ### Ubuntu
 
 - https://flameshot.org/
+- http://support.epson.net/linux/en/epsonscan2.php
 
 ### Firefox 
 

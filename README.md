@@ -4,9 +4,8 @@
 
 ### Setup
 
-Set favorite editor: `sudo update-alternatives --config editor`
-
-Add user "markus" to group "sudo": `usermod -a -G sudo markus`
+- Set favorite editor: `sudo update-alternatives --config editor`
+- Add user "markus" to group "sudo": `usermod -a -G sudo markus`
 
 ## Drivers
 
@@ -23,6 +22,18 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 - https://flameshot.org/
 - http://support.epson.net/linux/en/epsonscan2.php
+
+#### Gnome-Extensions
+
+Control + Configure installed Gnome-Extensions with `gnome-extensions-app`
+
+- https://extensions.gnome.org/extension/120/system-monitor/
+- https://extensions.gnome.org/extension/973/switcher/
+- https://extensions.gnome.org/extension/53/pomodoro/
+- https://extensions.gnome.org/extension/1162/emoji-selector/
+- https://extensions.gnome.org/extension/972/google-calculator/
+- https://extensions.gnome.org/extension/1459/miniview/
+- https://extensions.gnome.org/extension/750/openweather/
 
 ### Firefox 
 

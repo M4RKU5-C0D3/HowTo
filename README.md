@@ -45,6 +45,7 @@ Control + Configure installed Gnome-Extensions with `gnome-extensions-app`
 #### Addons
 
 - https://addons.mozilla.org/de/firefox/addon/simple-translate/
+- https://languagetool.org/de/dev
 
 ## Work
 

@@ -7,7 +7,7 @@
 - Set favorite editor: `sudo update-alternatives --config editor`
 - Add user "markus" to group "sudo": `usermod -a -G sudo markus`
 
-### Update
+### Upgrade
 
 - `sudo do-release-upgrade` (https://www.linuxtechi.com/upgrade-ubuntu-20-04-to-ubuntu-22-04/)
 

@@ -24,6 +24,12 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 ### Ubuntu
 
+- https://wiki.ubuntuusers.de/Dolphin/
+- https://wiki.ubuntuusers.de/Konsole/
+- https://wiki.ubuntuusers.de/Evolution/
+- https://wiki.ubuntuusers.de/Signal_Desktop/
+- https://wiki.ubuntuusers.de/Sublime_Text/
+- https://wiki.ubuntuusers.de/Visual_Studio_Code/
 - https://flameshot.org/
 - http://support.epson.net/linux/en/epsonscan2.php
 

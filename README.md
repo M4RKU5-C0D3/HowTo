@@ -24,7 +24,7 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 ### Ubuntu
 
-- https://wiki.ubuntuusers.de/Dolphin/
+- https://wiki.ubuntuusers.de/Nemo/
 - https://wiki.ubuntuusers.de/Konsole/
 - https://wiki.ubuntuusers.de/Evolution/
 - https://wiki.ubuntuusers.de/Signal_Desktop/

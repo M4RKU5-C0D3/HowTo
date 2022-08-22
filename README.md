@@ -47,15 +47,14 @@ Control + Configure installed Gnome-Extensions with `sudo apt install -y gnome-s
 
 ### Firefox 
 
-#### about:config
+#### [about:config](about:config)
 
 - browser.tabs.closeWindowWithLastTab=false
 - security.insecure_field_warning.contextual.enabled=false
 
-#### Addons
+#### Login
 
-- https://addons.mozilla.org/de/firefox/addon/simple-translate/
-- https://languagetool.org/de/dev
+- https://accounts.firefox.com
 
 ## Work
 

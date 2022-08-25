@@ -44,6 +44,8 @@ Control + Configure installed Gnome-Extensions with `sudo apt install -y gnome-s
 - https://extensions.gnome.org/extension/972/google-calculator/
 - https://extensions.gnome.org/extension/1459/miniview/
 - https://extensions.gnome.org/extension/750/openweather/
+- https://extensions.gnome.org//extension/1176/argos/
+- https://extensions.gnome.org//extension/3906/remove-app-menu/
 
 ### Firefox 
 

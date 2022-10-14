@@ -32,6 +32,7 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 - https://wiki.ubuntuusers.de/Visual_Studio_Code/
 - https://flameshot.org/
 - http://support.epson.net/linux/en/epsonscan2.php
+- https://pwr-solaar.github.io/Solaar
 
 #### Gnome-Extensions
 

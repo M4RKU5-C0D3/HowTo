@@ -40,17 +40,17 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 Control + Configure installed Gnome-Extensions with `sudo apt install -y gnome-shell-extension-manager`
 
 - https://extensions.gnome.org/extension/120/system-monitor/
-- https://extensions.gnome.org//extension/5037/nano-system-monitor/
+- https://extensions.gnome.org/extension/5037/nano-system-monitor/
 - https://extensions.gnome.org/extension/973/switcher/
 - https://extensions.gnome.org/extension/53/pomodoro/
 - https://extensions.gnome.org/extension/1162/emoji-selector/
 - https://extensions.gnome.org/extension/972/google-calculator/
 - https://extensions.gnome.org/extension/1459/miniview/
 - https://extensions.gnome.org/extension/750/openweather/
-- https://extensions.gnome.org//extension/1176/argos/
-- https://extensions.gnome.org//extension/3906/remove-app-menu/
-- https://extensions.gnome.org//extension/744/hide-activities-button/
-- https://extensions.gnome.org//extension/4470/media-controls/
+- https://extensions.gnome.org/extension/1176/argos/
+- https://extensions.gnome.org/extension/3906/remove-app-menu/
+- https://extensions.gnome.org/extension/744/hide-activities-button/
+- https://extensions.gnome.org/extension/4470/media-controls/
 
 ### Firefox 
 

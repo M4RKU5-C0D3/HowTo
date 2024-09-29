@@ -37,7 +37,7 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 #### Gnome-Extensions
 
-Control + Configure installed Gnome-Extensions with `sudo apt install -y gnome-shell-extension-manager`
+Use https://mattjakeman.com/apps/extension-manager to manage extensions.
 
 - https://extensions.gnome.org/extension/120/system-monitor/
 - https://extensions.gnome.org/extension/5037/nano-system-monitor/

@@ -28,6 +28,7 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 - https://wiki.ubuntuusers.de/Konsole/
 - https://wiki.ubuntuusers.de/Evolution/
 - https://wiki.ubuntuusers.de/Signal_Desktop/
+- https://github.com/mimbrero/whatsapp-desktop-linux
 - https://wiki.ubuntuusers.de/Sublime_Text/
 - https://wiki.ubuntuusers.de/Visual_Studio_Code/
 - https://flameshot.org/

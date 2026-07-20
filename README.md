@@ -2,19 +2,9 @@
 
 ## Linux
 
-### Setup
-
-- Set favorite editor: `sudo update-alternatives --config editor`
-- Add user "markus" to group "sudo": `usermod -a -G sudo markus`
-
 ### Upgrade
 
 - `sudo do-release-upgrade` (https://www.linuxtechi.com/upgrade-ubuntu-20-04-to-ubuntu-22-04/)
-
-## Drivers
-
-- Logitech G930 : https://github.com/Sapd/HeadsetControl
-- Epson ET-2720 : https://download.ebz.epson.net/dsc/search/01/search/searchModuleFromResult
 
 ## Fonts
 
@@ -24,45 +14,41 @@ https://www.fontsquirrel.com/fonts/download/droid-sans-mono
 
 ### Ubuntu
 
+- https://flathub.org/en/apps/org.gnome.Evolution
+- https://flathub.org/en/apps/org.signal.Signal
+- https://flathub.org/en/apps/com.ktechpit.whatsie
+- https://flathub.org/en/apps/com.sublimehq.SublimeText
+- https://flathub.org/en/apps/com.visualstudio.code
+- https://flathub.org/en/apps/org.flameshot.Flameshot
+- https://flathub.org/en/apps/net.epson.epsonscan2
+- https://flathub.org/en/apps/io.mpv.Mpv
+- https://flathub.org/en/apps/io.github.pwr_solaar.solaar
+- https://flathub.org/de/apps/com.mattjakeman.ExtensionManager
 - https://wiki.ubuntuusers.de/Nemo/
-- https://wiki.ubuntuusers.de/Konsole/
-- https://wiki.ubuntuusers.de/Evolution/
-- https://wiki.ubuntuusers.de/Signal_Desktop/
-- https://github.com/mimbrero/whatsapp-desktop-linux
-- https://wiki.ubuntuusers.de/Sublime_Text/
-- https://wiki.ubuntuusers.de/Visual_Studio_Code/
-- https://flameshot.org/
-- http://support.epson.net/linux/en/epsonscan2.php
-- https://pwr-solaar.github.io/Solaar
-- https://mpv.io/
 
-#### Gnome-Extensions
+### Extensions
 
-Use https://mattjakeman.com/apps/extension-manager to manage extensions.
-
+- https://extensions.gnome.org/extension/1460/vitals/
+- https://extensions.gnome.org/extension/973/switcher/
+- https://extensions.gnome.org/extension/744/hide-activities-button/
+- https://extensions.gnome.org/extension/6242/emoji-copy/
+- https://extensions.gnome.org/extension/1162/emoji-selector/
 - https://extensions.gnome.org/extension/120/system-monitor/
 - https://extensions.gnome.org/extension/5037/nano-system-monitor/
-- https://extensions.gnome.org/extension/973/switcher/
 - https://extensions.gnome.org/extension/53/pomodoro/
-- https://extensions.gnome.org/extension/1162/emoji-selector/
 - https://extensions.gnome.org/extension/972/google-calculator/
 - https://extensions.gnome.org/extension/1459/miniview/
 - https://extensions.gnome.org/extension/750/openweather/
 - https://extensions.gnome.org/extension/1176/argos/
 - https://extensions.gnome.org/extension/3906/remove-app-menu/
-- https://extensions.gnome.org/extension/744/hide-activities-button/
 - https://extensions.gnome.org/extension/4470/media-controls/
 
-### Firefox 
+### Vivaldi
 
-#### [about:config](about:config)
-
-- browser.tabs.closeWindowWithLastTab=false
-- security.insecure_field_warning.contextual.enabled=false
-
-#### Login
-
-- https://accounts.firefox.com
+- https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg
+- https://chromewebstore.google.com/detail/wallabagger/gbmgphmejlcoihgedabhgjdkcahacjlj
+- https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj
+- https://chromewebstore.google.com/detail/add-to-wishlistr/bhdhompadhkjjcalkhplcfdbjegnkegh
 
 ## Work
 
